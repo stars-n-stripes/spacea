@@ -1,0 +1,4232 @@
+[
+    {
+        "name": "65 AIR BASE GROUP",
+        "country": "Portugal",
+        "externalUrl": "http://www.lajesfss.com/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Abston AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Air Force Geospatial Integration Management System",
+        "country": "Main Air Force GeoBase Site",
+        "externalUrl": "https://maps.af.mil/",
+        "majcom": "HAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Air Reserve Personnel Center",
+        "country": "US",
+        "externalUrl": "https://www.arpc.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Al Dhafra",
+        "country": "United Arab Emirates",
+        "externalUrl": "http://www.afcent.af.mil/Units/380thAirExpeditionaryWing.aspx",
+        "majcom": "AFCENT",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Al Udeid AB",
+        "country": "Qatar",
+        "externalUrl": "http://www.afcent.af.mil/Units/379thAirExpeditionaryWing.aspx",
+        "majcom": "AFCENT",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Alcoa AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Alexandria Esler Cap",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Ali Al Salem AB",
+        "country": "Kuwait",
+        "externalUrl": "http://www.afcent.af.mil/Units/386thAirExpeditionaryWing.aspx",
+        "majcom": "AFCENT",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Alpena",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Michigan",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Altus AFB",
+        "country": "US",
+        "externalUrl": "https://www.altus.af.mil/",
+        "majcom": "AETC",
+        "state": "Oklahoma",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Andersen AFB",
+        "country": "Guam",
+        "externalUrl": "https://www.andersen.af.mil/",
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Ankara, Turkey",
+        "country": "Turkey",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Arlington",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Arnold AFB",
+        "country": "US",
+        "externalUrl": "https://www.arnold.af.mil/",
+        "majcom": "AFMC",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Aruba Isl, Aruba",
+        "country": "ARUBA",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Athens, Greece",
+        "country": "Greece",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Atlanta",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Augusta",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Maine",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Austin",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Aviano",
+        "country": "Italy",
+        "externalUrl": "https://www.aviano.af.mil/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Badin Com",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Bagram Air Field",
+        "country": "AFGHANISTAN",
+        "externalUrl": "http://www.bagram.afcent.af.mil/",
+        "majcom": "AFCENT",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Baileys Cross Rds",
+        "country": "US",
+        "externalUrl": "http://www.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Baltimore",
+        "country": "US",
+        "externalUrl": "https://www.175wg.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Maryland",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Bangor",
+        "country": "US",
+        "externalUrl": "https://www.101arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Maine",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Bann, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Barking Sands ANX",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Barksdale AFB",
+        "country": "US",
+        "externalUrl": "https://www.barksdale.af.mil/",
+        "majcom": "AFGSC",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Barnes ANGB",
+        "country": "US",
+        "externalUrl": "https://www.104fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Battle Creek ANGB",
+        "country": "US",
+        "externalUrl": "http://www.110atkw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Michigan",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Baumholder, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Beale AFB",
+        "country": "US",
+        "externalUrl": "http://www.beale.af.mil",
+        "majcom": "ACC",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Bellingham IAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Berlin, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Biggs AAF",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Birmingham",
+        "country": "US",
+        "externalUrl": "https://www.117arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Bismarck",
+        "country": "US",
+        "externalUrl": "https://www.119wg.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "North Dakota",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Bitburg, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Blue Ash AGS",
+        "country": "US",
+        "externalUrl": "https://www.goang.com/locations/ohio/blue-ash-air-national-guard-station",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Boise Barracks AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Idaho",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Boise",
+        "country": "US",
+        "externalUrl": "https://www.124thfighterwing.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Idaho",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Bradley IAP",
+        "country": "US",
+        "externalUrl": "https://www.103aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Connecticut",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Brooks City Base",
+        "country": "US",
+        "externalUrl": "https://www.afcec.af.mil/Home/BRAC/Brooks-City-Base/",
+        "majcom": "AFMC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Brunssum, Netherlands",
+        "country": "Netherlands",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Brunswick",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Brussels, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Buckley Space Force Base",
+        "country": "US",
+        "externalUrl": "https://www.buckley.af.mil/",
+        "majcom": "SpOC",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Buechel, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Burlington",
+        "country": "US",
+        "externalUrl": "https://www.158fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Vermont",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Atterbury AIN",
+        "country": "US",
+        "externalUrl": "https://www.atterburymuscatatuck.in.ng.mil/Camp-Atterbury/About-Camp-Atterbury/",
+        "majcom": "ANG",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Beauregard AIN",
+        "country": "US",
+        "externalUrl": "https://geauxguard.la.gov/installations/camp-beauregard/",
+        "majcom": "ANG",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Blanding AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Darby-Livorno, Italy",
+        "country": "Italy",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Camp Ederle-Vicenza, Italy",
+        "country": "Italy",
+        "externalUrl": "https://home.army.mil/italy/index.php",
+        "majcom": "Army",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Camp H.M. Smith",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "Marine",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Camp J T Robinson AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Arkansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Mabry AIN",
+        "country": "US",
+        "externalUrl": "http://www.txsg.state.tx.us/locations/units/units.aspx?regid=hq",
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Murray",
+        "country": "US",
+        "externalUrl": "https://mil.wa.gov/194th-wing",
+        "majcom": "ANG",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Pendleton AGS",
+        "country": "US",
+        "externalUrl": "http://vaguard.dodlive.mil/category/armyguard/camp-pendleton/",
+        "majcom": "ANG",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Perry AGS",
+        "country": "US",
+        "externalUrl": "https://www.ong.ohio.gov/campperry/index.html",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Rilea AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Oregon",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Camp Zama",
+        "country": "Japan",
+        "externalUrl": "http://www.usarj.army.mil/",
+        "majcom": "Army",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Cannon AFB",
+        "country": "US",
+        "externalUrl": "http://www.cannon.af.mil",
+        "majcom": "AFSOC",
+        "state": "New Mexico",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Cape Canaveral AFS",
+        "country": "US",
+        "externalUrl": "http://www.patrick.af.mil/library/factsheets/factsheet.asp?id=9958",
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Carlisle Barracks",
+        "country": "US",
+        "externalUrl": "http://www.carlisle.army.mil/",
+        "majcom": "Army",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Carolina PR",
+        "country": "Puerto Rico",
+        "externalUrl": "https://www.pr.ngb.army.mil/156th%20Airlift.htm",
+        "majcom": "ANG",
+        "state": "Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Carson City",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Nevada",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Cavalier Space Force Station",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "SpOC",
+        "state": "North Dakota",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Channel Islands",
+        "country": "US",
+        "externalUrl": "http://www.146aw.ang.af.mil",
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Charleston",
+        "country": "US",
+        "externalUrl": "http://www.130aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "West Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Cheyenne Mountain Space Force Station",
+        "country": "US",
+        "externalUrl": "http://www.peterson.af.mil/units/index.asp",
+        "majcom": "SpOC",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Cheyenne",
+        "country": "US",
+        "externalUrl": "http://www.153aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Wyoming",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Chievres, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Christchurch, New Zealand",
+        "country": "New Zealand",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Christiansted",
+        "country": "Virgin Islands",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Claiborne Range AFB",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "AFRC",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Clear Space Force Station",
+        "country": "US",
+        "externalUrl": "http://www.peterson.af.mil/About-Us/Fact-Sheets/Display/Article/326223/13th-space-warning-squadron",
+        "majcom": "SpOC",
+        "state": "Alaska",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Cleveland NAV",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Clinton",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Colchester",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Vermont",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Colorado Springs",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Columbia",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "South Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Columbus",
+        "country": "US",
+        "externalUrl": "http://www.columbus.af.mil/",
+        "majcom": "AETC",
+        "state": "Mississippi",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Columbus",
+        "country": "US",
+        "externalUrl": "http://www.oh.ang.af.mil/units/index.asp",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Concord",
+        "country": "US",
+        "externalUrl": "http://www.157arw.ang.af.mil/\r\n",
+        "majcom": "ANG",
+        "state": "New Hampshire",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Coventry",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Rhode Island",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Creech AFB",
+        "country": "US",
+        "externalUrl": "http://www.creech.af.mil/",
+        "majcom": "ACC",
+        "state": "Nevada",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Dallas NAS ABS",
+        "country": "US",
+        "externalUrl": "http://www.136aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Dannelly Field",
+        "country": "US",
+        "externalUrl": "http://www.187fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Davis-Monthan AFB",
+        "country": "US",
+        "externalUrl": "https://www.dm.af.mil/",
+        "majcom": "ACC",
+        "state": "Arizona",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Denver",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Des Moines",
+        "country": "US",
+        "externalUrl": "https://www.132dwing.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Iowa",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Diego Garcia, British Indian Ocean Territory",
+        "country": "British Indian Ocean Territories",
+        "externalUrl": null,
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Dobbins ARB",
+        "country": "US",
+        "externalUrl": "https://www.dobbins.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Dover AFB",
+        "country": "US",
+        "externalUrl": "https://www.dover.af.mil",
+        "majcom": "AMC",
+        "state": "Delaware",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Duluth ANGB",
+        "country": "US",
+        "externalUrl": "https://www.148fw.ang.af.mil/\r\r",
+        "majcom": "ANG",
+        "state": "Minnesota",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Dyess AFB",
+        "country": "US",
+        "externalUrl": "https://www.dyess.af.mil/",
+        "majcom": "AFGSC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Edmond",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Oklahoma",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Edwards AFB",
+        "country": "US",
+        "externalUrl": "https://www.edwards.af.mil",
+        "majcom": "AFMC",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Egg Harbor",
+        "country": "US",
+        "externalUrl": "https://www.177fw.ang.af.mil/\r\r",
+        "majcom": "ANG",
+        "state": "New Jersey",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Eglin AFB",
+        "country": "US",
+        "externalUrl": "https://www.eglin.af.mil",
+        "majcom": "AFMC",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Eielson AFB",
+        "country": "US",
+        "externalUrl": "https://www.eielson.af.mil/",
+        "majcom": "PACAF",
+        "state": "Alaska",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Einsiedlerhof, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Ellington Field - Houston",
+        "country": "US",
+        "externalUrl": "https://www.147atkw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Ellsworth AFB",
+        "country": "US",
+        "externalUrl": "https://www.ellsworth.af.mil/",
+        "majcom": "AFGSC",
+        "state": "South Dakota",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Eskisehir, Turkey",
+        "country": "Turkey",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "F. E. Warren AFB",
+        "country": "US",
+        "externalUrl": "https://www.warren.af.mil/",
+        "majcom": "AFGSC",
+        "state": "Wyoming",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fairchild AFB",
+        "country": "US",
+        "externalUrl": "https://www.fairchild.af.mil/",
+        "majcom": "AMC",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fargo",
+        "country": "US",
+        "externalUrl": "https://www.119wg.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "North Dakota",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Flobecq, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Florennes, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Forbes Field",
+        "country": "US",
+        "externalUrl": "http://www.190arw.ang.af.mil/\r\rhttps://www.190arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Kansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Belvoir",
+        "country": "US",
+        "externalUrl": "http://www.belvoir.army.mil/",
+        "majcom": "Army",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Bliss",
+        "country": "",
+        "externalUrl": "https://www.bliss.army.mil/",
+        "majcom": "Army",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Bragg",
+        "country": "US",
+        "externalUrl": "https://home.army.mil/bragg/",
+        "majcom": "Army",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Campbell",
+        "country": "US",
+        "externalUrl": "https://home.army.mil/campbell/",
+        "majcom": "Army",
+        "state": "Kentucky",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Carson",
+        "country": "US",
+        "externalUrl": "http://www.carson.army.mil/",
+        "majcom": "Army",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Carson AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Chaffee AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Arkansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Detrick",
+        "country": "US",
+        "externalUrl": "http://www.detrick.army.mil/",
+        "majcom": "Army",
+        "state": "Maryland",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Dix",
+        "country": "US",
+        "externalUrl": "http://www.dix.army.mil/",
+        "majcom": "Army",
+        "state": "New Jersey",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Dodge",
+        "country": "US",
+        "externalUrl": "https://www.505ccw.acc.af.mil/About-Us/Fact-Sheets/Display/Article/376117/133d-test-squadron/",
+        "majcom": "ANG",
+        "state": "Iowa",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Drum AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Gordon",
+        "country": "US",
+        "externalUrl": "http://www.gordon.army.mil/",
+        "majcom": "Army",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Hood",
+        "country": "US",
+        "externalUrl": "http://www.hood.army.mil/",
+        "majcom": "Army",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Huachuca",
+        "country": "US",
+        "externalUrl": "http://huachuca-www.army.mil",
+        "majcom": "Army",
+        "state": "Arizona",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Indiantown Gap AGS",
+        "country": "US",
+        "externalUrl": "https://ftig.png.pa.gov/Pages/default.aspx",
+        "majcom": "ANG",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Leavenworth",
+        "country": "US",
+        "externalUrl": "https://home.army.mil/leavenworth/",
+        "majcom": "Army",
+        "state": "Kansas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Lee",
+        "country": "US",
+        "externalUrl": "https://home.army.mil/lee/",
+        "majcom": "Army",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Leonard Wood",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "Army",
+        "state": "Missouri",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Leonard Wood TNG",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Missouri",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Lewis",
+        "country": "US",
+        "externalUrl": "https://home.army.mil/lewis-mcchord/",
+        "majcom": "Army",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort McNair",
+        "country": "US",
+        "externalUrl": "http://www.jbmhh.army.mil/web/jbmhh/AboutJBMHH/FortMcNairHistory.html",
+        "majcom": "Army",
+        "state": "District of Columbia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Meade",
+        "country": "US",
+        "externalUrl": "http://www.ftmeade.army.mil/",
+        "majcom": "Army",
+        "state": "Maryland",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Polk",
+        "country": "US",
+        "externalUrl": "http://www.jrtc-polk.army.mil/",
+        "majcom": "Army",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Riley",
+        "country": "US",
+        "externalUrl": "https://home.army.mil/riley/",
+        "majcom": "Army",
+        "state": "Kansas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Rucker",
+        "country": "US",
+        "externalUrl": "https://www.army.mil/info/organization/rucker/",
+        "majcom": "Army",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fort Smith",
+        "country": "US",
+        "externalUrl": "https://www.188wg.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Arkansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort William Henry Harrison - Helena",
+        "country": "US",
+        "externalUrl": "https://www.montanaguard.com/trainingsite/html/fort_harrison.cfm",
+        "majcom": "ANG",
+        "state": "Montana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Fort Worth NAS",
+        "country": "US",
+        "externalUrl": "https://www.136aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Four Lakes COM",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Francis S. Gabreski ANGB",
+        "country": "US",
+        "externalUrl": "https://www.106rqw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Frankfort",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Kentucky",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Frankfurt, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Fresno ANGB",
+        "country": "US",
+        "externalUrl": "https://www.144fw.ang.af.mil/\r\r",
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Friedberg, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Ft Wayne IAP",
+        "country": "US",
+        "externalUrl": "https://www.122fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "GA CRTC",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Gaeta, Italy",
+        "country": "Italy",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Garden City",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Geilenkirchen NATO Air Base, Germany",
+        "country": "Germany",
+        "externalUrl": "http://www.e3a.nato.int/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "General Mitchell ARS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "AFRC",
+        "state": "Wisconsin",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Giebelstadt, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Goodfellow AFB",
+        "country": "US",
+        "externalUrl": "https://www.goodfellow.af.mil/",
+        "majcom": "AETC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Grafenwohr, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Grand Forks AFB",
+        "country": "US",
+        "externalUrl": "https://www.grandforks.af.mil",
+        "majcom": "ACC",
+        "state": "North Dakota",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Great Falls",
+        "country": "US",
+        "externalUrl": "https://www.120fw.ang.af.mil/\r\r",
+        "majcom": "ANG",
+        "state": "Montana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Greeley",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Griffiss AFB",
+        "country": "US",
+        "externalUrl": "https://www.eads.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Grissom ARB",
+        "country": "US",
+        "externalUrl": "https://www.grissom.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Gulfport CRTC - Battlefield Airmen Center",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Mississippi",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hammond Com",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Hanau, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Hancock Field,NY",
+        "country": "US",
+        "externalUrl": "https://www.174attackwing.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hanscom AFB",
+        "country": "US",
+        "externalUrl": "https://www.hanscom.af.mil",
+        "majcom": "AFMC",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Hartford",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Connecticut",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hato IAP, Curacao, Netherlands Antilles",
+        "country": "Netherlands Antilles",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hayward MPT",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Heidelberg, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Hensley Field",
+        "country": "TX",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Dallas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hill AFB",
+        "country": "US",
+        "externalUrl": "https://www.hill.af.mil",
+        "majcom": "AFMC",
+        "state": "Utah",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Hilo-Gen Lyman CAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hohenfels, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Holloman AFB",
+        "country": "US",
+        "externalUrl": "https://www.holloman.af.mil/",
+        "majcom": "AETC",
+        "state": "New Mexico",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Homestead ARB",
+        "country": "US",
+        "externalUrl": "https://www.homestead.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Honolulu",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hot Springs ANG APT",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Arkansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hulman Field",
+        "country": "US",
+        "externalUrl": "https://www.181iw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hunter 02",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Hurlburt Field",
+        "country": "US",
+        "externalUrl": "https://www.hurlburt.af.mil/",
+        "majcom": "AFSOC",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Illesheim, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Incirlik",
+        "country": "Turkey",
+        "externalUrl": "https://www.incirlik.af.mil/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Indianapolis",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Istanbul (AMT), Turkey",
+        "country": "Turkey",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Izmir",
+        "country": "Turkey",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Jackson Barracks AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Jackson",
+        "country": "US",
+        "externalUrl": "https://www.172aw.ang.af.mil/\r\r",
+        "majcom": "ANG",
+        "state": "Mississippi",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Jacksonville IAP",
+        "country": "US",
+        "externalUrl": "https://www.125fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "JBSA-Camp Bullis - Joint Base San Antonio",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "Army",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "JBSA-Ft Sam Houston - Joint Base San Antonio",
+        "country": "US",
+        "externalUrl": "http://www.jbsa.mil/",
+        "majcom": "Army",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "JBSA-Lackland - Joint Base San Antonio",
+        "country": "US",
+        "externalUrl": "https://www.jbsa.af.mil/",
+        "majcom": "AETC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "JBSA-Randolph - Joint Base San Antonio (AETC)",
+        "country": "US",
+        "externalUrl": "https://www.jbsa.af.mil/",
+        "majcom": "AETC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Jefferson BRK AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Missouri",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Jefferson CO CAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Jefferson PVG GRD AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Joe Foss Field",
+        "country": "US",
+        "externalUrl": "http://www.114fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "South Dakota",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "John P. Murtha Cambria County Airport",
+        "country": "US",
+        "externalUrl": "https://www.171arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/451532/the-258th-air-traffic-control-squadron/\r\r",
+        "majcom": "ANG",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Anacostia-Bolling",
+        "country": "US",
+        "externalUrl": "https://www.cnic.navy.mil/regions/ndw/installations/jbab.html",
+        "majcom": "AFDW",
+        "state": "District of Columbia",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Andrews",
+        "country": "US",
+        "externalUrl": "https://www.jba.af.mil/",
+        "majcom": "AFDW",
+        "state": "Maryland",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Charleston",
+        "country": "US",
+        "externalUrl": "http://www.jbcharleston.jb.mil/",
+        "majcom": "AMC",
+        "state": "South Carolina",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Elmendorf-Richardson",
+        "country": "US",
+        "externalUrl": "http://www.jber.jb.mil/",
+        "majcom": "PACAF",
+        "state": "Alaska",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Langley-Eustis",
+        "country": "US",
+        "externalUrl": "https://www.jble.af.mil/",
+        "majcom": "ACC",
+        "state": "Virginia",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Lewis-McChord Field",
+        "country": "US",
+        "externalUrl": "http://www.lewis-mcchord.army.mil/",
+        "majcom": "AMC",
+        "state": "Washington",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "McGuire-Dix-Lakehurst",
+        "country": "US",
+        "externalUrl": "https://www.jointbasemdl.af.mil/",
+        "majcom": "AMC",
+        "state": "New Jersey",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Pearl Harbor-Hickam",
+        "country": "US",
+        "externalUrl": "https://www.cnic.navy.mil/regions/cnrh/installations/jb_pearl_harbor_hickam.html",
+        "majcom": "PACAF",
+        "state": "Hawaii",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "San Antonio",
+        "country": "US ",
+        "externalUrl": "https://www.jbsa.af.mil/",
+        "majcom": "AETC",
+        "state": "Texas",
+        "joint_base": true,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Kadena AB",
+        "country": "Japan",
+        "externalUrl": "https://www.kadena.af.mil/",
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Kahului CAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kaiserslautern, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Kalkar, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Kapaun, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Kapolei APT",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Karup",
+        "country": "Denmark",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Katterbach, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Keesler AFB",
+        "country": "US",
+        "externalUrl": "https://www.keesler.af.mil/",
+        "majcom": "AETC",
+        "state": "Mississippi",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Kelly Field Annex",
+        "country": "US",
+        "externalUrl": " https://www.149fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kester, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Key West NAS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kingshill",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Virgin Islands",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kingsley Field ANGB",
+        "country": "",
+        "externalUrl": "http://www.173fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Oregon, US",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kingston",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Rhode Island",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kirtland AFB",
+        "country": "US",
+        "externalUrl": "https://www.kirtland.af.mil/",
+        "majcom": "AFGSC",
+        "state": "New Mexico",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Klein Brogel, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Knoxville",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kokee AFS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kulis ANGB",
+        "country": "US",
+        "externalUrl": "https://www.176wg.ang.af.mil/units/",
+        "majcom": "ANG",
+        "state": "Alaska",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Kunsan AB",
+        "country": "South Korea",
+        "externalUrl": "https://www.kunsan.af.mil/",
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "La Porte AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "LA USNAS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Lafayette",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Lambert Field. MO",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Missouri",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Landstuhl, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Laughlin AFB",
+        "country": "US",
+        "externalUrl": "https://www.laughlin.af.mil/",
+        "majcom": "AETC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Lincoln Municipal Airport",
+        "country": "US",
+        "externalUrl": "https://www.155arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Nebraska",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Lisbon, Portugal",
+        "country": "Portugal",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Little Falls",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Minnesota",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Little Rock AFB",
+        "country": "US",
+        "externalUrl": "https://www.littlerock.af.mil/",
+        "majcom": "AMC",
+        "state": "Arkansas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "London Heathrow",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Los Angeles Space Force Base",
+        "country": "US",
+        "externalUrl": "https://www.losangeles.af.mil/",
+        "majcom": "SpOC",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Lovell Field CAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Lowry AFB",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Luke AFB",
+        "country": "US",
+        "externalUrl": "https://www.luke.af.mil/",
+        "majcom": "AETC",
+        "state": "Arizona",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "MacDill AFB",
+        "country": "US",
+        "externalUrl": "https://www.macdill.af.mil/",
+        "majcom": "AMC",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Macon",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Madison",
+        "country": "US",
+        "externalUrl": "https://www.115fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Wisconsin",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Madrid, Spain",
+        "country": "Spain",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Malmstrom AFB, Montana",
+        "country": "US",
+        "externalUrl": "https://www.malmstrom.af.mil/",
+        "majcom": "AFGSC",
+        "state": "Montana",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Mannheim, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Mansfield",
+        "country": "US",
+        "externalUrl": "https://www.179aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Manta Prt, Ecuador",
+        "country": "ECUADOR",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "March ARB",
+        "country": "US",
+        "externalUrl": "https://www.march.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Martin AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Martinsburg, E WV Regional Shepherd Field",
+        "country": "US",
+        "externalUrl": "https://www.167aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "West Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Maxwell AFB",
+        "country": "US",
+        "externalUrl": "https://www.maxwell.af.mil/",
+        "majcom": "AETC",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "McConnell AFB",
+        "country": "US",
+        "externalUrl": "https://www.mcconnell.af.mil/",
+        "majcom": "AMC",
+        "state": "Kansas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "McEntire JNGB",
+        "country": "US",
+        "externalUrl": "https://www.169fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "South Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "McGhee Tyson ANGB",
+        "country": "US",
+        "externalUrl": "https://www.134arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Memphis",
+        "country": "US",
+        "externalUrl": "https://www.164aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Meridian",
+        "country": "US",
+        "externalUrl": "https://www.186arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Mississippi",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Miami",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Middle Georgia Re CAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Middletown",
+        "country": "US",
+        "externalUrl": "https://www.193sow.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Milford ANG AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Milwaukee",
+        "country": "US",
+        "externalUrl": "https://www.128arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Wisconsin",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Minneapolis - St Paul IAP",
+        "country": "US",
+        "externalUrl": "https://www.128arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Minnesota",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Minneapolis-St Paul IAP ARS",
+        "country": "US",
+        "externalUrl": "https://www.minneapolis.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Minnesota",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Minot AFB",
+        "country": "US",
+        "externalUrl": "https://www.minot.af.mil/",
+        "majcom": "AFGSC",
+        "state": "North Dakota",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Misawa AB",
+        "country": "Japan",
+        "externalUrl": "https://www.misawa.af.mil/",
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Moffett Field",
+        "country": "US",
+        "externalUrl": "https://www.129rqw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Montgomery AGS",
+        "country": "US",
+        "externalUrl": "https://www.187fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Alabama",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Moody AFB",
+        "country": "US",
+        "externalUrl": "https://www.moody.af.mil/",
+        "majcom": "ACC",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Mor\u00f3n AB",
+        "country": "Spain",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Mountain Home AFB",
+        "country": "US",
+        "externalUrl": "https://www.mountainhome.af.mil/",
+        "majcom": "ACC",
+        "state": "Idaho",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Naples, Italy",
+        "country": "Italy",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "NAS JRB Fort Worth",
+        "country": "US",
+        "externalUrl": "https://www.10af.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "NAS Patuxent River",
+        "country": "USA",
+        "externalUrl": "https://www.cnic.navy.mil/regions/ndw/installations/nas_patuxent_river.html",
+        "majcom": "Navy",
+        "state": "Maryland",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "NAS Pensacola",
+        "country": "US",
+        "externalUrl": "https://www.cnic.navy.mil/regions/cnrse/installations/nas_pensacola.html",
+        "majcom": "Navy",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "NAS Whiting Field",
+        "country": "US",
+        "externalUrl": "https://www.cnic.navy.mil/regions/cnrse/installations/nas_whiting_field.html",
+        "majcom": "Navy",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Nashville",
+        "country": "US",
+        "externalUrl": "https://www.118wg.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Natick",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Naval Station Rota",
+        "country": "Spain",
+        "externalUrl": "https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=s6925EC1341EE0FB5E044080020E329A9",
+        "majcom": "Navy",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Naval Support Activity Philadelphia",
+        "country": "US",
+        "externalUrl": "https://www.cnic.navy.mil/regions/cnrma/installations/nsa_philadelphia.html",
+        "majcom": "Navy",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Naval War College",
+        "country": "US",
+        "externalUrl": "https://usnwc.edu/",
+        "majcom": "Navy",
+        "state": "Rhode Island",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Nellis AFB",
+        "country": "US",
+        "externalUrl": "https://www.nellis.af.mil/",
+        "majcom": "ACC",
+        "state": "Nevada",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "New Castle",
+        "country": "US",
+        "externalUrl": "https://www.166aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Delaware",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "New Orleans NAS",
+        "country": "US",
+        "externalUrl": "https://www.159fw.ang.af.mil/Units/LA-ANG-HQ/",
+        "majcom": "ANG",
+        "state": "Louisiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Newberry",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "South Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Niagara Falls Air Reserve Station",
+        "country": "US",
+        "externalUrl": "https://www.niagara.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "No Highlands STN COM",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "No Smithfield AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Rhode Island",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "North Bay",
+        "country": "Canada",
+        "externalUrl": null,
+        "majcom": "ACC",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "North Carolina Air National Guard",
+        "country": "US",
+        "externalUrl": "https://www.145aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "NSF Indian Head",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ACC",
+        "state": "MD",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Offutt Air Force Base",
+        "country": "US",
+        "externalUrl": "https://www.offutt.af.mil/",
+        "majcom": "ACC",
+        "state": "Nebraska",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Oklahoma City",
+        "country": "US",
+        "externalUrl": "https://www.137sow.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Oklahoma",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Ontario ANG IAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Orange COM",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Connecticut",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Osan AB",
+        "country": "South Korea",
+        "externalUrl": "https://www.osan.af.mil/",
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Otis ANGB",
+        "country": "US",
+        "externalUrl": "https://www.102iw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Paine AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Papago AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Arizona",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Paris, France",
+        "country": "France",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Patrick Space Force Base",
+        "country": "US",
+        "externalUrl": "https://www.patrick.af.mil/",
+        "majcom": "SpOC",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Pease ANGB",
+        "country": "US",
+        "externalUrl": "https://www.157arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "New Hampshire",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Pentagon",
+        "country": "US",
+        "externalUrl": "http://pentagon.afis.osd.mil/",
+        "majcom": "HAF",
+        "state": "District of Columbia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Peoria",
+        "country": "US",
+        "externalUrl": "https://www.182aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Illinois",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Peterson Space Force Base",
+        "country": "US",
+        "externalUrl": "https://www.peterson.af.mil",
+        "majcom": "SpOC",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Phoenix",
+        "country": "US",
+        "externalUrl": "https://www.161arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Arizona",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Pittsburgh IAP",
+        "country": "US",
+        "externalUrl": "https://www.171arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Pittsburgh IAP ARS",
+        "country": "US",
+        "externalUrl": "https://www.pittsburgh.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Pituffik Space Base",
+        "country": "GREENLAND",
+        "externalUrl": "https://www.peterson.af.mil/units/821stairbase/",
+        "majcom": "SpOC",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Pope Field",
+        "country": "US",
+        "externalUrl": "https://www.pope.af.mil/",
+        "majcom": "Army",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Port Hueneme",
+        "country": "US",
+        "externalUrl": "http://www.146aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Portland",
+        "country": "US",
+        "externalUrl": "https://www.142fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Oregon",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Presidio of Monterey",
+        "country": "US",
+        "externalUrl": "http://www.monterey.army.mil/",
+        "majcom": "Army",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Providence DEF AR AIN",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Rhode Island",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Pruem, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Punta Borinquen",
+        "country": "Puerto Rico",
+        "externalUrl": "https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=s6925EC1333260FB5E044080020E329A9",
+        "majcom": "ANG",
+        "state": "Aguadilla",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Punta Salinas BCN",
+        "country": "Puerto Rico",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Toa Baja",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "P\u00e1pa Air Base",
+        "country": "Hungary",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "QUANTICO MGI",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "Marines",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Quonset ANGB",
+        "country": "US",
+        "externalUrl": "http://www.143aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Rhode Island",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "RAF Alconbury",
+        "country": "United Kingdom",
+        "externalUrl": "https://www.501csw.usafe.af.mil/units/alconbury/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Croughton",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Daws Hill",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Fairford",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Feltwell",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Lakenheath",
+        "country": "United Kingdom",
+        "externalUrl": "https://www.lakenheath.af.mil/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Menwith Hill",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Mildenhall",
+        "country": "United Kingdom",
+        "externalUrl": "https://www.mildenhall.af.mil/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Molesworth",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Upwood",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "RAF Welford",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Ramstein AB",
+        "country": "Germany",
+        "externalUrl": "https://www.ramstein.af.mil/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Reisterstown",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Maryland",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Reno",
+        "country": "US",
+        "externalUrl": "https://www.152aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Nevada",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Rickenbacker IAP",
+        "country": "US",
+        "externalUrl": "https://www.121arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Robins Air Force Base, Georgia",
+        "country": "US",
+        "externalUrl": "https://www.robins.af.mil/",
+        "majcom": "AFMC",
+        "state": "Georgia",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Rome Labs",
+        "country": "US",
+        "externalUrl": "https://www.wpafb.af.mil/afrl/ri/",
+        "majcom": "AFMC",
+        "state": "NY",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Rome",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Sacramento",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Salem",
+        "country": "US",
+        "externalUrl": "http://www.mil.state.or.us/",
+        "majcom": "ANG",
+        "state": "Oregon",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Salinas",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Puerto Rico",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Salt Lake City",
+        "country": "US",
+        "externalUrl": "http://www.151arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Utah",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "San Diego AGS",
+        "country": "US",
+        "externalUrl": "https://www.my.af.mil/gcss-afbvpcp/USAF/ep/globalTab.do?channelPageId=sA4057E1F2E0883C7012E16006C46111C",
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "San Juan",
+        "country": "Puerto Rico",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "San Juan",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "San Luis Obispo",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "San Salvador, El Salvador",
+        "country": "ELSALVADOR",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Sandston",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Santa Fe",
+        "country": "US",
+        "externalUrl": "http://www.kirtland.af.mil/library/factsheets/factsheet.asp?id=5598\r\n",
+        "majcom": "ANG",
+        "state": "New Mexico",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Schriever Space Force Base",
+        "country": "US",
+        "externalUrl": "http://www.schriever.af.mil/",
+        "majcom": "SpOC",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Schweinfurt, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Scotia",
+        "country": "US",
+        "externalUrl": "http://www.109aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Scott AFB",
+        "country": "US",
+        "externalUrl": "http://www.scott.af.mil/",
+        "majcom": "AMC",
+        "state": "Illinois",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Seattle AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Selfridge ANGB. MI",
+        "country": "US",
+        "externalUrl": "http://www.127wg.ang.af.mil/\r\n",
+        "majcom": "ANG",
+        "state": "Michigan",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Sepulveda AGS",
+        "country": "US",
+        "externalUrl": "https://www.my.af.mil/gcss-afbvpcp/USAF/ep/globalTab.do?channelPageId=sA4057E1F2E0883C7012E1604B2C51454",
+        "majcom": "ANG",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Seymour Johnson AFB",
+        "country": "US",
+        "externalUrl": "http://www.seymourjohnson.af.mil/",
+        "majcom": "ACC",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "SHAPE, Belgium",
+        "country": "Belgium",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Shaw AFB",
+        "country": "US",
+        "externalUrl": "http://www.shaw.af.mil/",
+        "majcom": "ACC",
+        "state": "South Carolina",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Sheppard AFB",
+        "country": "US",
+        "externalUrl": "http://www.sheppard.af.mil/",
+        "majcom": "AETC",
+        "state": "Texas",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Sioux City",
+        "country": "US",
+        "externalUrl": "http://www.185arw.ang.af.mil/\r\n",
+        "majcom": "ANG",
+        "state": "Iowa",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Sioux Falls",
+        "country": "",
+        "externalUrl": "http://www.114fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "South Dakota, US",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Smoky Hill WRG",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Kansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Smyrna AAF",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Tennessee",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "So Portland AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Maine",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Soto Cano AB",
+        "country": "Honduras",
+        "externalUrl": "http://www.jtfb.southcom.mil/",
+        "majcom": "USSOUTHCOM",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Spangdahlem AB",
+        "country": "Germany",
+        "externalUrl": "http://www.spangdahlem.af.mil/",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Spokane ANG IAP",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Washington",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Springfield",
+        "country": "US",
+        "externalUrl": "http://www.183fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Illinois",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Springfield",
+        "country": "US",
+        "externalUrl": "http://www.178fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "St Augustine",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "St Joseph",
+        "country": "US",
+        "externalUrl": "http://www.139aw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Missouri",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Standiford Field (SDF) - KYANG",
+        "country": "US",
+        "externalUrl": "http://www.123aw.ang.af.mil/\r\n",
+        "majcom": "ANG",
+        "state": "Kentucky",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Stanly County APT",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "North Carolina",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "State College AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Stavanger, Norway",
+        "country": "Norway",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Stewart ANGB",
+        "country": "US",
+        "externalUrl": "http://www.105aw.ang.af.mil/\r\r",
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Stuttgart, Germany",
+        "country": "Germany",
+        "externalUrl": "http://www.stuttgart.army.mil",
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Swanton",
+        "country": "US",
+        "externalUrl": "http://www.180fw.ang.af.mil/\r\n",
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Syracuse AFS",
+        "country": "US",
+        "externalUrl": "https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=s6925EC1343330FB5E044080020E329A9",
+        "majcom": "ANG",
+        "state": "New York",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tampa",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tamuning COMAM",
+        "country": "GUAM",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tel Aviv, Israel",
+        "country": "Israel",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Terre Haute",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Indiana",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "The Hague, Netherlands",
+        "country": "Netherlands",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Tinker AFB",
+        "country": "US",
+        "externalUrl": "https://www.tinker.af.mil/",
+        "majcom": "AFMC",
+        "state": "Oklahoma",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Topeka",
+        "country": "US",
+        "externalUrl": "https://www.190arw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Kansas",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Travis AFB",
+        "country": "US",
+        "externalUrl": "https://www.travis.af.mil/",
+        "majcom": "AMC",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Trenton",
+        "country": "US",
+        "externalUrl": "http://www.state.nj.us/military/air/\r\n",
+        "majcom": "ANG",
+        "state": "New Jersey",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tucson",
+        "country": "US",
+        "externalUrl": "http://www.162fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Arizona",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tulsa",
+        "country": "US",
+        "externalUrl": "http://www.138fw.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Oklahoma",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tupelo",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Mississippi",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Tyndall AFB",
+        "country": "US",
+        "externalUrl": "http://www.tyndall.af.mil/",
+        "majcom": "ACC",
+        "state": "Florida",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "United States Air Force Academy",
+        "country": "US",
+        "externalUrl": "https://www.afdw.af.mil/",
+        "majcom": "USAFA",
+        "state": "Colorado",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Vance AFB",
+        "country": "US",
+        "externalUrl": "https://www.vance.af.mil/",
+        "majcom": "AETC",
+        "state": "Oklahoma",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Vandenberg Space Force Base",
+        "country": "US",
+        "externalUrl": "https://www.vandenberg.af.mil/",
+        "majcom": "SpOC",
+        "state": "California",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Vilseck, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Virginia Beach",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Virginia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Volk Field",
+        "country": "US",
+        "externalUrl": "https://www.volkfield.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Wisconsin",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Volkel, Netherlands",
+        "country": "Netherlands",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Warren Grove",
+        "country": "US",
+        "externalUrl": "https://www.108thwing.ang.af.mil/About-Us/Fact-Sheets/Display/Article/438074/warren-grove-range-history/",
+        "majcom": "ANG",
+        "state": "New Jersey",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Washington DC",
+        "country": "US",
+        "externalUrl": "https://www.113wg.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "District of Columbia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Waterbeach",
+        "country": "United Kingdom",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Wellesley AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Wendover Radio Re RRL",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Utah",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Westover ARB",
+        "country": "US",
+        "externalUrl": "https://www.westover.afrc.af.mil/",
+        "majcom": "AFRC",
+        "state": "Massachusetts",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Wheeler AAF",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Hawaii",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "White House ADM",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "District of Columbia",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Whiteman AFB",
+        "country": "US",
+        "externalUrl": "https://www.whiteman.af.mil/",
+        "majcom": "AFGSC",
+        "state": "Missouri",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Wiesbaden, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Willow Grove Air Reserve Station",
+        "country": "US",
+        "externalUrl": "https://www.111attackwing.ang.af.mil/",
+        "majcom": "ANG",
+        "state": "Pennsylvania",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Winooski",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Vermont",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    },
+    {
+        "name": "Wright-Patterson AFB",
+        "country": "US",
+        "externalUrl": "https://www.wpafb.af.mil/",
+        "majcom": "AFMC",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Wurzburg, Germany",
+        "country": "Germany",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Yokota Air Base",
+        "country": "Japan",
+        "externalUrl": "http://www.yokota.af.mil/",
+        "majcom": "PACAF",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Yongsan AIN",
+        "country": "KOREA",
+        "externalUrl": null,
+        "majcom": "Army",
+        "state": "N/A",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Youngstown ARS",
+        "country": "US",
+        "externalUrl": "http://www.youngstown.afrc.af.mil/\r\n",
+        "majcom": "AFRC",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": true
+    },
+    {
+        "name": "Yurmutalik, Turkey",
+        "country": "Turkey",
+        "externalUrl": null,
+        "majcom": "USAFE",
+        "state": "",
+        "joint_base": false,
+        "national_guard": false,
+        "reserve": false
+    },
+    {
+        "name": "Zanesville AGS",
+        "country": "US",
+        "externalUrl": null,
+        "majcom": "ANG",
+        "state": "Ohio",
+        "joint_base": false,
+        "national_guard": true,
+        "reserve": false
+    }
+]

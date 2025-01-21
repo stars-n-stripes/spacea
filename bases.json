@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Maxwell AFB",
+        "state" : "Alabama",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Eglin AFB",
+        "state" : "Florida",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    
+    {
+        "name": "Hurlburt Field",
+        "state" : "Florida",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "MacDill AFB",
+        "state" : "Florida",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Patrick AFB",
+        "state" : "Florida",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Tyndall AFB",
+        "state" : "Florida",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Moody AFB",
+        "state" : "Georgia",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Robins AFB",
+        "state" : "Georgia",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Andersen AFB",
+        "state" : "Guam",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Hickam AFB",
+        "state" : "Hawaii",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Joint Base Pearl Harbor-Hickam",
+        "state" : "Hawaii",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Mountain Home AFB",
+        "state" : "Idaho",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Scott AFB",
+        "state" : "Illinois",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Grissom ARB",
+        "state" : "Indiana",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "McConnell AFB",
+        "state" : "Kansas",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Barksdale AFB",
+        "state" : "Louisiana",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Keesler AFB",
+        "state" : "Mississippi",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    },
+    {
+        "name": "Whiteman AFB",
+        "state" : "Missouri",
+        "country": "United States",
+        "joint_base": false,
+        "air_national_guard": false
+    }
+    
+]
