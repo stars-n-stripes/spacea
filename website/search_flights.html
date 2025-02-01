@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Air Force Base Search</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">SpaceA</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="search_flights.html">Search Flights</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="search-container">
+        <h1>Search for an Air Force Base</h1>
+        
+        <label for="search-box-origin">Origin:</label>
+        <input type="text" id="search-box-origin" placeholder="Enter origin base name...">
+        <div id="suggestions-origin"></div>
+
+        <label for="search-box-dest">Destination:</label>
+        <input type="text" id="search-box-dest" placeholder="Enter destination base name...">
+        <div id="suggestions-dest"></div>
+    </div>
+
+    <script src="search_flights_script.js"></script>
+   
+</body>

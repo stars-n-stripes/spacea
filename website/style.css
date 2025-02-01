@@ -1,0 +1,114 @@
+:root {
+    --delta-dark-blue: #003DA5;
+    --delta-red: #C8102E;
+    --delta-light-gray: #F5F5F5;
+    --delta-dark-gray: #555555;
+    --white: #FFFFFF;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    color: var(--delta-dark-gray);
+    background-color: var(--delta-light-gray);
+    margin: 0; /* Remove default margin */
+  }
+  
+  h1 {
+    color: var(--delta-dark-blue);
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Header (example) */
+  header {
+    background-color: var(--delta-dark-blue);
+    color: var(--white);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-left: 20px;
+  }
+  
+  nav a {
+    color: var(--white);
+    text-decoration: none;
+  }
+  
+  /* Search Area */
+  .search-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--white);
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: var(--delta-dark-blue);
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  input[type="text"]:focus {
+    outline: none;
+    border-color: var(--delta-dark-blue);
+    box-shadow: 0 0 3px rgba(0, 61, 165, 0.5);
+  }
+  
+  /* Suggestions Dropdown */
+  #suggestions-origin,
+  #suggestions-dest {
+    border: 1px solid #ccc;
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    display: none;
+    width: 100%; /* Match input width */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  #suggestions-origin ul,
+  #suggestions-dest ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #suggestions-origin li,
+  #suggestions-dest li {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  #suggestions-origin li:hover,
+  #suggestions-dest li:hover {
+    background-color: #f0f0f0;
+  }

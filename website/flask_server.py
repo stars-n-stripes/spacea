@@ -1,7 +1,9 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS # Import CORS
 import mysql.connector
 
 app = Flask(__name__)
+CORS(app) # Remove this in debug
 
 # db configuration
 db_config = {
@@ -22,7 +24,7 @@ def search():
         cursor = mydb.cursor(dictionary=True)   # dict=true gets the results
 
         # parameterized query to prevent SQL injection
-        sql = "SELECT displayTitle FROM air_force_bases WHERE displayTitle LIKE %s LIMIT 10"
+        sql = "SELECT base_name FROM air_force_bases WHERE base_name LIKE %s LIMIT 10"
         cursor.execute(sql, (f"%{query}%",))  # wildcards for partial matches
         results = cursor.fetchall()
 
@@ -38,4 +40,4 @@ def search():
             mydb.close()
 
 if __name__ == '__main__':
-    app.run(debug=True)   # run the app in debug mode
+    app.run(debug=True, host='0.0.0.0')   # run the app in debug mode
