@@ -123,9 +123,12 @@ function createRoutingControl() {
     if (originBase && destBase) {
         const origin = L.latLng(originBase.latitude, originBase.longitude);
         const destination = L.latLng(destBase.latitude, destBase.longitude);
-
+        
         console.log("Origin LatLng:", origin);
         console.log("Destination LatLng:", destination);
+        midpoint = getMidPoint(origin, destination);
+
+        console.log("Origin type: ", typeof origin, "Destination type: ", typeof destination, "Midpoint type: ", typeof midpoint);
 
         // create a great-circle path using Leaflet.curve
         routeLine = L.curve([
