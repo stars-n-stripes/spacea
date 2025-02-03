@@ -1,14 +1,15 @@
 const searchBoxOrigin = document.getElementById('search-box-origin');
-const suggestionsDivOrigin = document.getElementById('suggestions-origin');
+const suggestionsOriginDiv = document.getElementById('suggestions-origin');
 const searchBoxDest = document.getElementById('search-box-dest');
-const suggestionsDivDest = document.getElementById('suggestions-dest');
+const suggestionsDestDiv = document.getElementById('suggestions-dest');
 
 
 
 let map; // initialize the map after page loads
-let baseMarkers = {}; // store markers for bases to remove them later
+let originMarker = null;
+let destMarker = null;
 let routeLine; // store the route line
-let bases = []; // store the bases data
+let allBases = {}; // store the bases data
 
 document.addEventListener('DOMContentLoaded', () => {
     map = L.map('map').setView([37.8, -96], 4);  // Center on the US and zoom out
@@ -19,18 +20,20 @@ document.addEventListener('DOMContentLoaded', () => {
     }).addTo(map);
 });
 
-addSearchEventListener(searchBoxOrigin, suggestionsDivOrigin);
-addSearchEventListener(searchBoxDest, suggestionsDivDest);
+addSearchEventListener(searchBoxOrigin, suggestionsOriginDiv, true);
+addSearchEventListener(searchBoxDest, suggestionsDestDiv, false);
 
-function addSearchEventListener(searchBox, suggestionsDiv) {
+function addSearchEventListener(searchBox, suggestionsDiv, isOrigin) {
     searchBox.addEventListener("input", () => {
         const searchText = searchBox.value.trim();
         if (searchText.length > 2) {
             fetch(`http://127.0.0.1:5000/search?q=${searchText}`)
                 .then(response => response.json())
                 .then(data => {
-                    bases = data;  // store the bases data for later use
-                    showSuggestions(data, searchBox, suggestionsDiv);
+                    data.forEach(base => {
+                        allBases[base.base_name] = base;
+                    });
+                    showSuggestions(data, searchBox, suggestionsDiv, isOrigin);
                 })
                 .catch(error => {
                     console.error('Error fetching data:', error);
@@ -41,7 +44,7 @@ function addSearchEventListener(searchBox, suggestionsDiv) {
     });
 }
 
-function showSuggestions(bases, searchBox, suggestionsDiv) {
+function showSuggestions(bases, searchBox, suggestionsDiv, isOrigin) {
     suggestionsDiv.innerHTML = '';
     if (bases.length === 0) {
         suggestionsDiv.style.display = "none";
@@ -56,7 +59,11 @@ function showSuggestions(bases, searchBox, suggestionsDiv) {
             searchBox.value = base.base_name;
             suggestionsDiv.style.display = "none";
 
-            updateMarker(base);
+            updateMarker(base, isOrigin);
+
+            // check if both origin and destination are selected
+            checkAndCreateRoute();
+
         });
         ul.appendChild(li);
     });
@@ -66,45 +73,59 @@ function showSuggestions(bases, searchBox, suggestionsDiv) {
 
 }
 
-function updateMarker(base) {
+function updateMarker(base, isOrigin) {
     if (base.latitude && base.longitude) {
         // remove existing marker for the base, if any
-        if (baseMarkers[base.base_name]) {
-            map.removeLayer(baseMarkers[base.base_name]);
+        if (isOrigin && originMarker) {
+            map.removeLayer(originMarker);
+        } else if (!isOrigin && destMarker) {
+            map.removeLayer(destMarker);
+            destMarker = null;
         }
 
         // add a new marker
         const marker = L.marker([base.latitude, base.longitude]).addTo(map);
         marker.bindPopup(base.base_name); // add a popup with the base name
-        baseMarkers[base.base_name] = marker;  // store the marker for the future removal
+        if (isOrigin) {
+            originMarker = marker;
+        } else {
+            destMarker = marker;
+        }
 
         // center the map on the new marker
         map.setView([base.latitude, base.longitude], 10);  // you might adjust the zoom level
 
-        // add routing control after both origin and destination are selected
-        if (searchBoxOrigin.value && searchBoxDest.value) {
-            createRoutingControl();
-        } else {
-            console.log('Origin:', searchBoxOrigin.value);  // log origin value
-            console.log('Destination:', searchBoxDest.value);  // log destination value
-        }
     }
 }
 
 function createRoutingControl() {
+    console.log("creating route...function called.");
     // remove existing route line, if any
     if (routeLine) {
         map.removeLayer(routeLine);
+        routeLine = null;
     }
 
+    // check if both origin and destination are selected
+    if (!searchBoxOrigin.value || !searchBoxDest.value) {
+        console.log("Origin or Destination not selected.");
+        return;
+    }
+    
     // get the origin and destination base names
-    const originBase = bases.find(base => base.base_name === searchBoxOrigin.value);
-    const destBase = bases.find(base => base.base_name === searchBoxDest.value);
+    const originBase = allBases[searchBoxOrigin.value];
+    const destBase = allBases[searchBoxDest.value];
+
+    console.log("Origin Base:", originBase);
+    console.log("Destination Base:", destBase);
 
     // create a new route line
     if (originBase && destBase) {
         const origin = L.latLng(originBase.latitude, originBase.longitude);
         const destination = L.latLng(destBase.latitude, destBase.longitude);
+
+        console.log("Origin LatLng:", origin);
+        console.log("Destination LatLng:", destination);
 
         // create a great-circle path using Leaflet.curve
         routeLine = L.curve([
@@ -116,17 +137,33 @@ function createRoutingControl() {
                 animate: 1000,   // animate the line drawing
         }).addTo(map);
 
+        console.log("Route Line:", routeLine);
+
         // fit the map view to the bounds of the route
         map.fitBounds(routeLine.getBounds());
+    } else {
+        console.log("Origin or Destination not found.");
+    }
+}
+
+function checkAndCreateRoute() {
+    console.log("Origin:", searchBoxOrigin.value, "Dest:", searchBoxDest.value); // Debug print
+
+    
+    if (searchBoxOrigin.value && searchBoxDest.value) {
+        createRoutingControl();
     }
 }
 
 // Helper function to get a midpoint for the curve (for a more curved appearance)
 function getMidPoint(latlng1, latlng2) {
+    console.log("getMidPoint called with:", latlng1, latlng2); // Debug print
     const offset = 0.6;     // adjust for curve
     const lat = (latlng1.lat + latlng2.lat) / 2;
     const lng = (latlng1.lng + latlng2.lng) / 2;
     const offsetX = (latlng2.lng - latlng2.lng) * offset;
     const offsetY = (latlng2.lat - latlng2.lat) * offset;  // inverted for curve
-    return L.latLng(lat + offsetY, lng + offsetX);
+    const midpoint = L.latLng(lat + offsetY, lng + offsetX);
+    console.log("Midpoint calculated:", midpoint); // Debug print
+    return midpoint;
 }
