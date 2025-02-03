@@ -24,7 +24,7 @@ def search():
         cursor = mydb.cursor(dictionary=True)   # dict=true gets the results
 
         # parameterized query to prevent SQL injection
-        sql = "SELECT base_name FROM air_force_bases WHERE base_name LIKE %s LIMIT 10"
+        sql = "SELECT base_name, latitude, longitude FROM air_force_bases WHERE base_name LIKE %s LIMIT 10"
         cursor.execute(sql, (f"%{query}%",))  # wildcards for partial matches
         results = cursor.fetchall()
 
