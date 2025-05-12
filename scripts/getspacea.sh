@@ -84,6 +84,7 @@ fi
 declare -A AMCNAMES SCHEDULES ROLLCALLS
 AMCNAMES[JBPHH]="PACOM-Terminals/Joint-Base-Pearl-Harbor-Hickam-Passenger-Terminal"
 AMCNAMES[JBA]="CONUS-Terminals/Joint-Base-Andrews-Passenger-Terminal"
+AMCNAMES[DOVER]="CONUS-Terminals/Dover-AFB-Passenger-Terminal"
 
 #URLS=( "${!AMCNAMES[@]}" ) # Somehow, that expansion is for assoc array keys
 
@@ -112,11 +113,11 @@ getamcurls() {
 	fi
 	# Complicated; but extract the two URLS here via lookbehind/aheads and scrub the domain to be www.amc.af.mil
 	# This regex will only get more complicated as I try to cover more variations between bases
-	RES=$(echo "$index" | grep -oP '(?<=href=")[^"]+(?=72(\%20)?H(OU)?R)[^"]+|(?<=href=")[^"]+(?=ROLL( |_)?CALL|Utilization)[^"]+' | sed 's/https\:\/\/.*.mil\//\//g;s/^/www.amc.af.mil/g')
-	schedule="$(echo "$RES" | grep -E '72H(OU)?R')"
+	RES=$(echo "$index" | grep -oP '(?<=href=")[^"]+(?=72(\%20| )?H(OU)?R)[^"]+|(?<=href=")[^"]+(?=ROLL( |_)?CALL|Utilization)[^"]+' | sed 's/https\:\/\/.*.mil\//\//g;s/^/www.amc.af.mil/g')
+	schedule="$(echo "$RES" | grep -E '72(\%20| )?H(OU)?R')"
 	rollcall="$(echo "$RES" | grep -E 'ROLL( |_)?CALL|Utilization')"
 	if [[ -z "$schedule" || -z "$rollcall" ]]; then
-		echo "Failed to parse URLs for $1: $schedule ||| $rollcall" 1>&2
+		echo -e "Failed to parse URLs for $1:\n\tSchedule URL: $schedule\n\tRollcall URL: $rollcall" 1>&2
 		return 1
 	else
 		echo "Acquired URLs for $1" 1>&2
